@@ -326,6 +326,11 @@ body
     background: #000;
 }
 
+.social-icons ul li .fa
+{
+    color: #fff;
+}
+
 .social-icons ul li:hover
 {
     padding-left: 30px;
